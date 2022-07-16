@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+
+.classpath
+.project
+.settings
+.pydevproject
+.clover
+target
+maven-eclipse.xml
+.idea
+*.iml
+*.iml
+/.idea/checkstyle-idea.xml
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/leetcode_java.iml
