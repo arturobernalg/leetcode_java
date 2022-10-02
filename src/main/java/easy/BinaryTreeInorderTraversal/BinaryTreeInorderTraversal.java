@@ -1,4 +1,4 @@
-package easy.Trees;
+package easy.BinaryTreeInorderTraversal;
 
 import node.TreeNode;
 
